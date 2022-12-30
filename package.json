@@ -43,7 +43,7 @@
     "chai": "^4.2.0",
     "jsdom": "^16.2.2",
     "jsdom-global": "^3.0.2",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "mock-socket": "8.0.5",
     "parcel-bundler": "^1.12.4",
     "standard": "^14.1.0",
